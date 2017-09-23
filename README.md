@@ -7,4 +7,9 @@ To use:
 To login to container:
 `docker run -it --rm gyaworski/alpine-linux-hardened:alpine-3.6-hardened-1.0 /bin/ash` or `docker run -it --rm gyaworski/alpine-linux-hardened:latest /bin/ash`
 
-[Docker Hub Repo is Here](https://hub.docker.com/r/gyaworski/alpine-linux-hardened/)
+[Docker Hub repo is here](https://hub.docker.com/r/gyaworski/alpine-linux-hardened/)
+
+#### Understand what you are using, look at the code, don't take security for granted. 
+
+live. contribute. thrive.  
+:smile: :rocket: :muscle:
