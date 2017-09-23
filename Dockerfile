@@ -8,3 +8,4 @@ ADD harden.sh ./harden.sh
 RUN chmod o+x ./harden.sh \
     && sh ./harden.sh \
     && rm ./harden.sh
+    
