@@ -9,7 +9,5 @@ To login to container:
 
 [Docker Hub repo is here](https://hub.docker.com/r/gyaworski/alpine-linux-hardened/)
 
-#### Understand what you are using, look at the code, don't take security for granted. 
-
 live. contribute. thrive.  
 :smile: :rocket: :muscle:
